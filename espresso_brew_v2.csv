@@ -1,0 +1,221 @@
+Origin,Caffeine,Roast level,Roaster,Product weight (grams),Tasting notes,Rating,Time rested (days),Dose (grams),Yield (grams),Brew ratio,Shot time (seconds),Espresso machine,Grinder,Grind setting,Water temperature (°C)
+Colombia,1,2.0,Monogram,300.0,"['Rum ', ' brown sugar']",9.0,7.0,18.0,45.0,1:2.5,30,ECM Synchronika,Monolith MAX Gen 1,1.75,93.8
+Colombia,1,2.0,DAK,1000.0,"['Cardamom', ' vanilla', ' nuts']",10.0,5.0,18.0,45.0,1:2.5,30-35,ECM Synchronika,Monolith MAX Gen 1,,94.4
+Blend,1,4.0,Cat & Cloud,283.0,['Smooth'],8.0,5.0,16.3,33.0,1:2.0,30,DeLonghi ECP 35.31,Baratza Encore ESP,17,
+Blend,1,5.0,Onyx,283.0,"['Chocolate', ' nuts', ' low acidity']",7.0,5.0,18.0,36.0,1:2.0,25-35,La Marzocco Linea Micra,1zpresso J-Ultra,1.35,95.0
+Blend,1,4.0,Black & White,340.0,"['Funky', ' slightly acidic']",3.0,14.0,18.0,45.0,1:2.5,25-35,La Marzocco Linea Micra,1Zpresso J-Ultra,1.25,95.0
+Blend,1,5.0,Black & White,340.0,"['Dark cherry', ' chocolate finish']",5.0,7.0,17.0,39.0,1:2.3,25-35,La Marzocco Linea Micra,1Zpresso J-Ultra,1.04,90.5
+Honduras,1,4.0,Red Rooster,340.0,"['Strong', ' creamy hazelnut flavor', ' floral finish']",10.0,5.0,17.0,38.5,1:2.3,25-35,La Marzocco Linea Micra,1Zpresso J-Ultra,1.01,91.0
+Ethiopia,1,3.0,Red Rooster,340.0,"['Strong berry flavor', ' pleasant acidity', ' lingering chocolate finish']",6.0,14.0,17.0,43.0,1:2.5,25-35,La Marzocco Linea Micra,1Zpresso J-Ultra,1.03,94.2
+Costa Rica,1,3.0,Red Rooster,240.0,"['Bergamot', 'lemon', ' black tea finish']",4.0,21.0,17.0,48.0,1:2.8,20,La Marzocco Linea Micra,1Zpresso J-Ultra,1.01,94.2
+Colombia,1,3.0,Black & White,340.0,['Mixed fruit with mild florality'],5.0,21.0,18.0,47.0,1:2.6,17-20,La Marzocco Linea Micra,1Zpresso J-Ultra,0.99,94.0
+Colombia,1,3.0,Black & White,340.0,['Subtle apple flavor'],6.0,21.0,18.0,51.0,1:2.8,20-25,La Marzocco Linea Micra,1Zpresso J-Ultra,1.02,93.8
+Blend,1,2.0,Black & White,340.0,"['Slightly floral', ' slightly acidic']",6.0,21.0,18.0,54.0,1:3.0,20-25,La Marzocco Linea Micra,1Zpresso J-Ultra,1.01,94.2
+India,1,2.0,Black & White,340.0,"['Light white florals', ' almost sugary sweetness']",10.0,21.0,18.0,48.0,1:2.7,25-30,La Marzocco Linea Micra,1Zpresso J-Ultra,1.04,94.2
+Costa Rica,1,4.0,Black & White,340.0,"['Apple', ' a little spice']",9.0,14.0,18.0,51.0,1:2.8,25-35,La Marzocco Linea Micra,1Zpresso J-Ultra,1.05,92.4
+Honduras,1,3.0,Black Hen,500.0,"['Cocoa', ' mild', ' full body']",8.0,,18.0,36.0,1:2.0,31,Lelit Bianca,DF64,10.5,
+Costa Rica,1,4.0,Barrington Coffee,340.0,"['cinnamon (like a ton of cinnamon)', ' chocolate']",9.0,10.0,17.5,36.0,1:2.1,30-35 seconds,Breville Bambino,Eureka Mignon Zero,,
+Brazil,1,3.0,Norfolk Coffee & Tea,454.0,['Chocolate and caramel with nutty and fruity undertones'],8.0,,18.0,36.0,1:2.0,30,Breville Bambino,DF64,15,
+Ethiopia,1,3.0,Commonplace Coffee ,340.0,['Hibiscus • Black Currant • Vanilla Custard'],7.0,,17.7,39.8,1:2.2,31,De’longhi Dedica,Baratza Encore ,3 from zero,
+India,1,4.0,Gigawatt coffee Roasters,283.0,"['Cardamom', ' Graham', ' Bakers Spice', ' Rich and soothing finish']",8.0,3.0,18.3,30.0,1:1.6,24,Breville Bambino Plus,Breville smart Grinder,"Inner setting 3,outer setting 7",
+Blend,1,3.0,Olympia,340.0,"['Rich', ' full bodied']",7.0,7.0,20.0,42.0,1:2.1,29,Breville Oracle Jet,Breville Oracle Jet,38,93.0
+Blend,1,3.0,Counter Culture,2267.0,"['Nutty', ' creamy texture', ' chocolatey']",8.0,10.0,18.0,40.0,1:2.2,22,Breville Oracle,Option-O Lagom Mini,,93.0
+Brazil,1,3.0,Shuk Cafe,1000.0,"['Bold', ' rosy tartness']",8.0,13.0,18.0,26.0,1:1.4,28,VBM Domo Jr Hx,Mazzer Mini A,,93.0
+Blend,1,2.0,CounterCulture,340.0,,7.0,16.0,18.0,30.0,1:1.7,19,ECM CasaV,Niche,,
+Colombia,1,5.0,The Columbian,340.0,"['chocolate', ' semi-sweet toffee', ' molasses', ' very smooth']",8.0,,18.0,36.0,1:2.0,28,Breville Dual Boiler,DF64 Gen2,,90.0
+Blend,1,3.0,Mystic Monk,2270.0,"['Rich', ' Earthy', ' Chocolate with a hint of Caramel', ' slight fruit note']",10.0,16.0,15.0,32.0,1:2.1,32,Elektra Microcasa Manual Leva,Bodum Bistro,4 clicks prior to the finest setting,
+Blend,1,4.0,Stumptown Coffee Roasters ,510.0,"['Very rich', ' incredibly acidic ']",2.0,79.0,18.0,56.0,1:3.1,28,Breville Barista Express ,Breville Barista Express ,6,93.0
+Ethiopia,1,3.0,CounterCulture,340.0,,8.0,12.0,18.0,40.0,1:2.2,25,ECM CasaV,Niche,,
+Guatemala,1,5.0,Faro,908.0,"['Chocolate', ' brown sugar', ' rich']",8.0,5.0,18.0,38.0,1:2.1,32,Belezza Bellona,Eurêka Zero,"1,5",92.0
+Guatemala,1,2.0,Intelligentsia Coffee,340.0,"['Lime', ' dried cherry', ' cola']",7.0,10.0,18.0,45.0,1:2.5,32 seconds,Breville Bambino Plus,DF64 II,17,93.0
+Blend,1,6.0,Black and White,,"['Dark chocolate', ' cherry']",9.0,,18.0,42.0,1:2.3,25,Robot,J Ultra,1.1,96.0
+Blend,1,3.0,Cloud Picker ,250.0,"['Yummy', ' cherry', ' chocolate', ' nut butter']",9.0,10.0,18.0,42.0,1:2.3,25,Silvia Pro X ,Varia VS3 ,4.2,95.0
+Blend,1,6.0,Fidalgo Coffee Roasters,340.0,"['Caramel', ' full body', ' low acidity', ' aromatic', ' welcome bitterness ']",10.0,40.0,14.5,30.0,1:2.1,32,Breville Barista express (modified),Baratza Encore ESP,19,92.0
+Blend,1,2.0,Whole Foods,340.0,,8.0,15.0,15.0,40.0,1:2.7,30,Krups Model 964 Espresso Novo,Hario Ceramic Coffee Mill,,
+Colombia,1,3.0,Hifalutin ,340.0,"['Cocoa', ' heavy cherry', ' vanilla', ' smoke']",8.0,2.0,21.0,46.2,1:2.2,32,Rocket Mozzafiato,Option-O Lagom Casa 65,8.1,94.0
+Blend,1,4.0,Coffee by Design,454.0,"['Rich', ' syrupy', ' chocolate and caramel']",9.0,12.0,18.0,36.0,1:2.0,38-52,Flair pro 2,Turin SK40,12,96.0
+Rwanda,1,4.0,Rwanda Bean,340.0,"['chocolate', ' citrus', ' caramel', ' mineral (?)']",8.0,15.0,16.0,32.0,1:2.0,38-42,Flair pro 2,Kingrinder K2,40 clicks,96.0
+Blend,1,3.0,Kuma Coffee,340.0,"['Very fragrant', ' fruit and nuts']",7.0,5.0,18.0,36.0,1:2.0,20,Cafabrews CM5418,Oxo,4,
+Ethiopia,1,3.0,CounterCulture,340.0,,8.0,12.0,18.0,28.0,1:1.6,19,ECM CasaV,Niche,,
+Blend,1,5.0,Black Elm,340.0,"['Dark chocolate covered cherries', ' almond butter', ' sweet', ' thick', ' silky']",9.0,12.0,18.0,40.0,1:2.2,36,Tuni E2,Tuni G1,6,91.0
+Brazil,1,3.0,Supreme Roastworks,250.0,"['red fruit', ' plum', ' brown sugar']",10.0,7.0,18.0,36.0,1:2.0,30,sage oracle,sage,11,90.0
+Blend,1,3.0,Metric Coffee,283.0,"['Chocolate notes', ' small citrus notes', '']",9.0,3.0,18.0,45.0,1:2.5,29,Lelit Mara X v2,DF 64 gen 2,18,93.0
+Blend,1,5.0,Darkwood,250.0,"['Chocolate', ' rich', ' Modern espresso']",10.0,7.0,15.0,30.0,1:2.0,28,Gaggia Classic ,SPTK38,7,100.0
+Blend,1,5.0,l'amica,500.0,"['Good', ' little bit bitter']",8.0,,17.0,34.0,1:2.0,27 seconds,Soli Barista Perfetta Plus,Varia VS3,5.4,96.0
+Blend,1,5.0,Nuanz ,454.0,['Chocolate caramel rich'],8.0,5.0,18.0,36.0,1:2.0,25-30,Gaggia Classic with spring mod to 9 bar,Zespresso hand grinder,3.9-4.5,
+Blend,1,4.0,Wood Fire Roasted Coffee Company,16.0,['Warm and Earthy'],8.0,2.0,18.0,36.0,1:2.0,32,Breville Barista Express,Breville Barista Express,9-10,93.0
+Blend,1,4.0,Stereoscope,454.0,"['Medium body', ' fruity', ' citrus']",7.0,5.0,18.0,36.0,1:2.0,31,Lelit Bianca ,DF64 v2,13.5,95.0
+Blend,1,6.0,Republica,454.0,"['Rich', ' buttery', ' cocoa and walnuts', ' tart finish']",8.0,1.0,17.0,42.0,1:2.5,34,Breville Express Impress,Breville Express Impress,Burr 4 Grind 17,95.0
+El Salvador,1,4.0,Bean Brothers,400.0,"['Currants', ' cherry', ' caramel']",7.0,16.0,20.0,40.0,1:2.0,0:31,Izzo Alex Duetto,Niche Zero,18,93.0
+Ethiopia,1,3.0,Little Wolf,200.0,"['Boysenberry', ' white honey', ' winey']",9.0,28.0,20.0,40.0,1:2.0,62,Izzo Alex Duetto,Philos Mazzer I200D,14,95.0
+Blend,1,5.0,Zanzibar,396.0,"['chocolate', ' caramel', ' dark']",10.0,3.0,18.0,36.0,1:2.0,28,Breville Barista Express,Breville Barista express,3,93.0
+Blend,1,4.0,Opossum Cofee,340.0,"['Chocolate', ' Bright acidity']",7.0,14.0,16.5,40.0,1:2.4,28-35 seconds,Gaggia Classic E24,Kingrinder K6,30-35,93.0
+Blend,1,3.0,Ace Coffee Outpost ,340.0,"['Almond', ' gardenia and tangerine']",10.0,10.0,22.5,45.0,1:2.0,35,Profitec pro 600,Mazzer Philos ,23,91.0
+Blend,1,5.0,Dillanos Coffee Roasters,12.0,"['Syrupy', ' Malt', ' walnut ']",7.0,10.0,19.0,36.0,1:1.9,34,Breville Barista Express,Breville Barista Express,4-5,100.0
+Brazil,0,5.0,CBC Roaster,454.0,['chocolate'],8.0,4.0,18.0,40.0,1:2.2,28,Breville Barista Pro,Breville Barista Pro,14,91.0
+Ethiopia,1,4.0,Home Roast,1000.0,"['Red berries', ' wine sugar', ' melon rind', ' lingering', ' bright', ' medium-bodied', ' enveloping', '']",8.0,10.0,15.0,30.0,1:2.0,15,La Marzocco Leva X,EK65 GBW,1.5-2,93.5
+Honduras,1,4.0,Home Roast,1000.0,"['Creamy caramel', ' strawberry ( very clean profile )Aftertaste is light', ' lingering', ' slightly rough', ' Body Medium-light ( which is medium)', '']",7.0,5.0,15.0,30.0,1:2.0,15,La Marzocco Leva X,EK65 GBW,3.3-3.8,93.5
+Honduras,1,4.0,Home Roast,1000.0,"['Black berries', ' caramel', ' cinnamon (red orange on the chill) | Aftertaste Light', ' medium-long', ' and slightly rough | Body: Medium', ' smooth', '']",7.0,1.0,15.0,32.0,1:2.1,14,La Marzocco Leva X,EK65 GBW,3.1-3.5,94.2
+Costa Rica,1,2.0,Home Roast,1000.0,"['Cherry pit', ' red ripe berries (intense sweetness is very strong on cooling - like compote) | Aftertaste: Light', ' medium-long and slightly rough | Body: Light', ' smooth', '']",8.0,4.0,15.0,30.0,1:2.0,15,La Marzocco Leva X,EK65 GBW,2.1-2.5,93.0
+Brazil,1,3.0,Home Roast,1000.0,"['Cane sugar with lemon', ' dried fruit compote', ' some spices (white pepper or something else) | Aftertaste: Smooth', ' pleasant', ' lingering | Body: Light but intense']",6.0,16.0,15.0,30.0,1:2.0,15,La Marzocco Leva X,EK65 GBW,2,93.0
+Guatemala,1,3.0,Home Roast,1000.0,"['Bright floral', ' apricot', ' extremely sweet | Aftertaste: Balanced', ' not intrusive | Body: Light and very drinkable', '']",9.0,4.0,15.0,30.0,1:2.0,15,La Marzocco Leva X,EK65 GBW,2.5-3,92.5
+Blend,1,4.0,Tiong Hoe Specialty Coffee,250.0,['Very mildly acidic with a dark chocolate-y finish'],7.0,9.0,17.0,40.0,1:2.4,39,Breville Bambino,1zpresso J-Ultra,120-125,
+Ethiopia,1,3.0,cafe du jour,1000.0,"['Refreshing', ' green apple-like acidity', ' creamy', '']",8.0,10.0,16.5,40.0,1:2.4,28,sage duo temp pro,graef 800,11,93.0
+Costa Rica,1,2.0,Home Roast,1000.0,"['Raspberry jam', ' strawberry lollipops | Aftertaste: Very bright and very rich |Body: Light', ' clean', '']",9.0,14.0,15.0,30.0,1:2.0,15,La Marzocco Leva X,EK65 GBW,2,93.5
+Blend,1,4.0,Newport Coffee Deerfield / Loti,340.0,"['Rich', ' medium body', ' caramel head with nutty chocolate body', ' Very smooth and balanced', ' ']",9.0,18.0,18.2,38.0,1:2.1,40,Gaggia e24 with shades kit,J-ultra ,1.05,91.0
+Colombia,1,2.0,Newport Coffee Evanston ,340.0,"['Insanely fruity', ' nose of a bowl of Froot Loops', ' body is acidic', ' bright', ' tropical fruit on tongue followed by lavender tea', ' Unreal', ' ']",10.0,20.0,19.1,40.0,1:2.1,40,Gaggia E24,J-Ultra,1.02-3 ,93.0
+Colombia,1,2.0,Prodigal,250.0,"['Apricot', ' Peach jam', ' sweet caramel']",9.0,25.0,17.2,40.0,1:2.3,45,picopresso,J ultra,150,
+Colombia,1,2.0,Prodigal,250.0,"['Pineapple', ' apple', ' peach']",8.0,23.0,17.5,40.0,1:2.3,48,picopresso,J ultra,154,
+Ethiopia,1,3.0,Pala,205.0,"['Clean', ' floral', ' black tea']",7.0,21.0,20.0,36.0,1:1.8,27,La Marzocco Linea 2gr,Mahlkonig E65s GBW,"2,5-3,5",93.0
+China,1,4.0,PERC Coffee,340.0,"['Sweet', ' baked goods']",8.0,6.0,18.0,38.0,1:2.1,25-30,Profitec Go,Breville Smart Grinder Pro,20,92.0
+Colombia,1,2.0,Glitch,100.0,"['Creamy; chocolate', ' rich']",10.0,11.0,21.0,42.0,1:2.0,22,La Marzocco Linea Micra,Eureka Libra,,94.0
+Brazil,1,3.0,Seven Summits,340.0,"['Light caramel', ' sour cherry']",8.0,8.0,18.0,45.0,1:2.5,32,Gaggia Classic PID @ 9 bar,DF54 ,20.5,93.3
+Colombia,1,4.0,Zero,500.0,"['Juicy', ' bright starting acidity with dark chocolate finish']",7.0,12.0,17.0,41.0,1:2.4,29,Breville Bambino,1zpresso J-Ultra,1.14,
+Colombia,0,3.0,Black & White Coffee Roasters,340.0,"['Luxardo cherry', ' milk chocolate']",8.0,7.0,15.0,36.0,1:2.4,45,Flair Neo Flex,Kingrinder K6,34,100.0
+Indonesia,1,5.0,Lucifer,250.0,"['Roasty', ' licorice', ' Supposed to be medium', ' tastes like dark', ' ']",4.0,17.0,20.0,40.0,1:2.0,28,E-61 DB,Niche Zero,,92.0
+Blend,1,3.0,Eiland Coffee Roasters,454.0,"['Craft chocolate', ' clean acidity']",8.0,7.0,18.1,36.7,1:2.0,23,Rancilio Silvia Pro X,DF64 Gen 2,5.15-5.25 (slow grind) or 15.5 (fast grind),93.0
+Blend,1,2.0,Eiland Coffee Roasters,454.0,"['Fruity and bright', ' chocolatey', ' nutty', ' Tea-like', '']",6.0,12.0,18.1,37.0,1:2.0,17,Rancilio Silvia Pro X,DF64 Gen 2,5.25 (slow),93.0
+Ethiopia,1,3.0,PERC,908.0,['blueberries and cream'],8.0,19.0,19.0,28.0,1:1.5,34 seconds,Lelit Bianca v3,Eureka Mignon Notte,6-6.5 (using Finecoar dial),91.0
+Brazil,1,,Joe Coffee,310.0,"['Smooth', ' caramel', ' chocolate', ' blends well with oatmilk and a little sugar', ' low acidity']",8.0,14.0,17.0,70.0,1:4.1,120,bialetti moka pot,oxo,6.5,
+Blend,1,5.0,SweetBeans Coffee Company,454.0,"['Rich', ' cocoa nibs', ' toffee', ' hazelnut', ' roasted pecans']",9.0,7.0,18.0,36.0,1:2.0,27,Rancilio RS1,Fiorenzatta F64 EVO,1.9,93.0
+Blend,1,4.0,Bones Coffee Co,340.0,"['chocolate', ' caramel', ' sea salt']",8.0,,18.0,36.0,1:2.0,,,Bodum C-Mill Electric Coffee Grinder,,
+Colombia,1,2.0,Native Coffee Co.,908.0,"['Rhaspberry', ' Cherry', ' Rose Candy', ' Creamy']",9.0,14.0,21.0,62.0,1:3.0,30,Decent XL,Lagom 01,1.8,85.0
+Colombia,1,6.0,Rock island,454.0,['Rich chocolate'],8.0,0.0,16.5,33.0,1:2.0,25-30,Breville Barista Pro,Kingrinder K6,27,94.0
+Peru,1,1.0,Wogan,500.0,"['Blackcurrant', ' milk chocolate', ' low acidity ']",8.0,14.0,11.5,40.0,1:3.5,30-35,Delonghi ECP 35.31,Fellow opus,1.75 + 1,95.0
+Guatemala,1,3.0,Home Roast,1000.0,"['Lemon', "" something from dried fruits (but I don't understand what it is - maybe dates) | Aftertaste: Medium intensity"", ' not intrusive', ' sweet | Body: Light', ' enveloping', '']",6.0,11.0,15.0,30.0,1:2.0,15,La Marzocco Leva X,EK43 HU,3.3,92.5
+Honduras,1,3.0,Home Roast,1000.0,"['Red currant (very bright)', ' floral', ' | Aftertaste: High saturation and duration', ' | Body: Light', ' clean', '']",7.0,5.0,15.0,30.0,1:2.0,15,La Marzocco Leva X,EK43 HU,3.1,92.5
+Blend,1,4.0,Proud Mary Coffee,250.0,"['chocolate', ' molasses', ' low acidity']",9.0,,18.0,36.0,1:2.0,26,Breville Duo Temp Pro,OXO Brew Conical ,2.5,
+Costa Rica,1,5.0,XOZIO Coffee & Provisions,340.0,"['Syrupy body', ' nougat', ' cashew butter', ' German chocolate', ' vanilla']",9.0,4.0,18.0,36.0,1:2.0,27,Breville Barista Express ,Breville Barista Express ,Inner burr 4: outside 5 (too slow at 31 seconds) changed to inner burr 4: outer 4 ,
+Peru,0,4.0,Selfsame Coffee,283.0,"['Round and smooth acidity', ' dark chocolate']",9.0,,18.0,36.0,1:2.0,35,Breville infuser,Baratza Vario,2L,93.0
+Blend,1,7.0,Dean's Beans ,454.0,['Charcoal'],1.0,10.0,18.0,45.0,1:2.5,32,Gaggia Classic Pro,Lagom Casa,7,93.0
+India,1,2.0,Home Roast,1000.0,"['Black grapes ( I would not call this flavor wine', ' but rather very lightly fermented grapes )', ' nougat ( very pronounced )', ' on cooling it reminds very much of basic loukoum ( well', ' the one that is white and with some nuts and a lot of starch )', '\nAftertaste: Clean', ' enveloping', ' rounded', '\nBody: Very light and not intrusive (slightly rough on cooling down)', '']",8.0,24.0,15.0,30.0,1:2.0,20,La Marzocco Leva X,EK65 gbw,2.7,92.0
+Blend,1,6.0,Roasting Warehouse,1000.0,"['Rich', ' dark chocolate and caramel', ' honeycomb and red berries']",9.0,,18.0,36.0,1:2.0,26,Breville Bambino Plus,Breville Smart Grinder Pro,15 (internal burr 4),
+Colombia,1,3.0,Glitch,150.0,"['Pineapple', ' Funk']",8.0,49.0,19.0,38.0,1:2.0,27,Lelit Bianca,Eureka Mignon Notte,6.5 w/ Finecoar dial,91.0
+Colombia,1,4.0,Silk City Coffee ,340.0,"['Chocolate', ' nutty']",7.0,9.0,18.3,48.8,1:2.7,28-33,Breville Bambino,1Zpresso X-Pro,5.5 - 5.8,85.0
+Honduras,1,3.0,Home Roast,1000.0,"['Lemon', ' floral', ' red berries | Aftertaste: Clean and smooth | Body: Light and rounded', '']",8.0,6.0,15.0,30.0,1:2.0,17,La Marzocco Leva X,EK43 HU,2.8,95.0
+Kenya,0,4.0,Square Mile,350.0,"['Raspberry', ' caramel', ' chocolate']",7.0,,18.0,42.0,1:2.3,35,Cafelat Robot,1zpresso J-Max,1.2.0,
+Ethiopia,1,3.0,cafedujour,1000.0,"['Floral', ' Chocolate', ' Fruity', ' Honey\nBody: Medium | Finish: Clean']",8.0,10.0,18.5,50.0,1:2.7,32,Faema Faemina Satin Copper,Eureka Atom W 65,1.7-2.1,92.5
+Blend,1,4.0,Caje Coffee Roasters,340.0,"['Light body', ' earthy and nutty', ' tons of crema ']",7.0,5.0,16.0,38.0,1:2.4,35,ECM Synchronika,Ceado E37S,2.5 - 2.9,94.0
+Colombia,1,6.0,Sparrows Coffee,310.0,"['Dark Chocolate', '  Currants', ' Syrup', ' Caramel']",10.0,7.0,18.0,36.0,1:2.0,40,Breville Bambino,Baratza ESP,18,93.0
+Blend,1,6.0,Caravan,1000.0,['Dark chocolate'],7.0,30.0,18.3,32.0,1:1.7,27,Sage/Breville Dual Boiler ,Eureka Libra ,1.7,94.0
+Ethiopia,1,2.0,Dak,250.0,,8.0,15.0,15.5,31.0,1:2.0,30,Lelit Anna PL41TEM,Mazzer Philos with i200D,22,92.0
+Blend,1,4.0,Stumptown Coffee Roasters,340.0,"['Dark Chocolate', ' Carmel']",10.0,30.0,26.0,65.0,1:2.5,36,Profitec Drive,DF64v,13 to 12 over 1 week,92.0
+Mexico,1,4.0,Fabiano's,454.0,"['Brown Sugar', ' Cinnamon', ' Nutty']",9.0,7.0,26.0,65.0,1:2.5,36,Profitec Drive,DF64v,12,92.0
+Peru,0,4.0,Counter Culter,340.0,"['Dark Chocolate', ' Molasses']",9.0,7.0,26.0,65.0,1:2.5,36,Profitec Drive,DF64v,10 to 9 over 1 week,92.0
+Indonesia,1,3.0,Common Grounds x beean,200.0,"['Lemon Candy', ' Brown Sugar', ' Chamomile']",8.0,,20.0,55.0,1:2.8,29,Lelit Bianca V3,DF64V,16,95.0
+Blend,1,2.0,Büttner & Bauer Bohnenrösterei,1000.0,['Sweet; citrus-like acidity'],9.0,14.0,18.0,54.0,1:3.0,28-30,Eureka Pura,Eureka Specialita,Eureka King Size Dial somewhere between 2 and 3,96.0
+Ethiopia,1,3.0,Kirkland (Costco),900.0,['Vanilla'],6.0,30.0,19.5,35.0,1:1.8,28,Breville Barista Express,Breville Barista Express,Fine,
+Guatemala,1,2.0,Methodical Coffee Roasters,340.0,"['Chocolate', ' Caramel', ' Creamy']",7.0,15.0,18.0,36.0,1:2.0,30-35 seconds,Simonelli Oscar,Forte 270,,
+Brazil,1,5.0,The Aviary Coffee Shop,250.0,"['Chocolate', ' hazlenut']",10.0,,18.0,36.0,1:2.0,28,Breville Bambino,Kin 6,,96.0
+Blend,1,3.0,Wells Coffee Company,340.0,"['Dark chocolate', ' subtle cherry like']",9.0,14.0,18.0,36.0,1:2.0,36,Gaggia Classic Pro,Eureka Mignon Specialita,,93.0
+Blend,1,4.0,Bicycle Coffee,1135.0,['Rich caramel and honey '],10.0,5.0,18.0,52.0,1:2.9,25,Breville Barista Pro,Breville Barista Pro,4 grind,93.0
+India,1,4.0,Coffee Circle,250.0,"['Maple Syrup', ' White Chocolate', ' Dark Rum']",8.0,18.0,16.0,40.0,1:2.5,28,Custom,Sage Dose Control Pro (modded),8,91.0
+Rwanda,1,2.0,Lazy Schnauzer,227.0,"['Low acidity', ' complex flavors']",9.0,21.0,21.0,62.0,1:3.0,23,Lelit Elizabeth,Zerno Z1,140,94.0
+Brazil,1,2.0,Mothership Coffee Roasters,340.0,"['Milk Chocolate', ' Caramel', ' Almond']",9.0,5.0,18.0,36.0,1:2.0,25,Gaggia Classic Pro V2,Baratza Sette 270Wi,3D,93.0
+Brazil,1,4.0,Ohoj Coffee Roaster,1900.0,"['Chocolate', ' Nutty']",9.0,5.0,22.0,42.0,1:1.9,35,Lelit Anita,Lelit Anita (Built in),2.1,
+Blend,1,6.0,"F. Gavina & Sons, Inc. ",2260.0,['Smoky overtones suggest a dark roast with possible overdevelopment'],6.0,,14.0,28.0,1:2.0,25,Breville Bambino Plus,KINGrinder K1,7,91.0
+Rwanda,1,3.0,Terres de café,250.0,"['Honey', ' almonds ', ' yellow fruits']",6.0,,15.0,36.0,1:2.4,30,Lelit Kate PL82T,Lelit Kate PL82T,fine,91.0
+Blend,1,6.0,Les Bruleurs Associés,1000.0,"['dark chocolate', ' hazelnut', ' caramelized']",9.0,,15.0,32.0,1:2.1,36,Lelit Kate,Lelit Kate,fine,91.0
+Ethiopia,1,2.0,"Fresh roasted coffee, LLC",,,8.0,5.0,18.0,36.0,1:2.0,30,Breville Barista Express,Breville Barista Express,Fine,85.0
+Brazil,1,3.0,Torrefactory,1000.0,"['Subtle', ' bitter', ' hazelnut and brown sugar']",8.0,15.0,9.0,25.0,1:2.8,30,Gaggia Classic Pro,Sage The Smart Grinder,6,
+Blend,1,4.0,Mlin Produkt,1000.0,"['Rich', ' thick body', ' bold caramel flavor', ' balanced sweetness and bitterness', ' almost no acidity', '']",9.0,30.0,16.0,33.0,1:2.1,24,Delonghi ECP 31.21,Kingdiner K4,1.05,92.0
+India,1,4.0,Rave,250.0,"['Woody', ' smoky', ' walnut', ' treacle']",4.0,10.0,20.0,30.0,1:1.5,35,Lelit Elizabeth,DF64 Gen 2,na (grinder 0 is not true 0),93.0
+Honduras,1,2.0,Lot61,1000.0,"['Juicy', ' Vibrant', ' Nectarine Body: Medium | Acidity: Mellow | Finish: Clean', ' Balanced\n']",9.0,8.0,19.0,52.0,1:2.7,27,Faema Faemina Satin Copper,Eureka Atom W 65,,93.0
+India,1,4.0,Curious Life Coffee,250.0,"['rich ', ' syrupy body with cherry', ' dark chocolate with a hint of spices ']",10.0,7.0,19.0,40.0,1:2.1,27,Delonghi ECP 33.21,Baratza Encore ESP,3-4,
+Blend,1,5.0,Wheels Coffee Roasters,200.0,"['Chocolate', ' strong body']",6.0,20.0,15.0,33.0,1:2.2,15,Delonghi Dedica EC685,DF54,15,94.0
+Blend,1,3.0,Offset Coffee Roasters,283.0,"['Milk Chocolate', ' Strawberry', ' Creamy', ' Modern']",10.0,7.0,19.5,38.0,1:1.9,28,La Marzocco GS3,Baratza Sette 270wi,12A,93.0
+Blend,1,5.0,Valentine Coffee Roasting Company,908.0,"['Rich', ' strong', ' syrupy body', ' Chocolatey']",8.0,,21.0,42.0,1:2.0,25,Gaggia Classic Pro (NOT Evo),Baratza Encore ESP,2-4,
+Guatemala,0,6.0,Purroast,1135.0,"['Rich', ' chocolatey ']",7.0,,20.0,40.0,1:2.0,35,Turin Legato V2,1Zpresso J-Ultra ,1.1.4,96.0
+Blend,1,3.0,Dogwood Coffee,340.0,"['Sweet', ' fruity', ' floral']",8.0,6.0,18.5,42.0,1:2.3,28-32 seconds,Rancilio Silvia,1Zpresso J-Max,,
+Ethiopia,0,3.0,Press Coffee,340.0,"['Rich', ' apricot notes', ' tart finish ']",7.0,4.0,24.0,50.0,1:2.1,40,Turin Legato V2,1Zpresso J-Ultra,1.1.4,96.0
+Colombia,1,1.0,Kapelsmaker,2600.0,"['Rich', ' Chocolate and\nmolasses flavor']",7.0,4.0,17.3,40.0,1:2.3,28-31,Breville Bambino,DF54,15-16.6,96.0
+Brazil,1,6.0,De Mello Coffee,227.0,"['Dark chocolate', ' rich', ' bold', ' very low acidity', ' nutty', ' smokey']",9.0,14.0,17.0,45.0,1:2.6,25-30,Gaggia Classic Pro E24,Baratza Encore ESP,15,
+Uganda,1,2.0,Atlas Coffee Club,340.0,"['right notes of citrus', ' tangy-milky mouthfeel', ' and luscious bass notes of chocolate']",7.0,20.0,16.0,32.0,1:2.0,29,Breville Barista Express Impress,"Breville Barista Express Impress, internal burr set of 3",7,93.0
+Blend,1,2.0,Small Planes,908.0,"['Sweet', ' medium body', ' milk chocolate and nutty']",10.0,3.0,18.0,55.0,1:3.1,40,Flair 58+2,DF83V,21,97.0
+Brazil,1,4.0,Missing Bean,250.0,"['Plum acidity', ' fruity almond-y nose', ' flat cocoa finish', '']",8.0,5.0,18.0,38.0,1:2.1,28,De'longhi Dedica,DF54,17-16,96.0
+Brazil,1,3.0,Sodality Coffee,340.0,"['Pleasant peanut butter and chocolate notes', ' Smooth acidity', ' medium', ' syrupy body', '']",9.0,4.0,17.0,34.0,1:2.0,28,Gaggia Classic Pro,Mahlkonig EK43,1,
+Indonesia,1,4.0,Fresh Roaster Coffee,12.0,['Rich'],10.0,7.0,18.0,36.0,1:2.0,25,Ninja Luxe Cafe SE701,Ninja Luxe Cafe SE701,08,91.0
+Blend,1,2.0,Intelligentsia,340.0,"['Very fresh raspberry', ' orange peel', ' mild chocolate', ' medium body']",7.0,20.0,15.0,45.0,1:3.0,40,Cafelat Robot,1zpresso J-max,1.2.4,100.0
+Colombia,1,1.0,La Cabra,200.0,,9.0,40.0,18.0,50.0,1:2.8,25,Bezzera Duo MN,Timemore Sculptor 078S,1.9 (1100 RPM),95.0
+Ethiopia,1,3.0,Caventura,250.0,"['Cassis', ' peach', ' milk chocolate']",9.0,7.0,16.0,35.0,1:2.2,33,Rancillo Silvia X,Eureka Mignon Specialita,Very Fine,93.5
+Blend,1,4.0,Deeper Roots,908.0,"['Toffee', ' chocolate and cherry', ' Rich sweetness', ' a touch of bright acidity', ' and a velvety body', ' ']",9.0,5.0,18.0,36.0,1:2.0,30 seconds,Breville Barista Pro,Breville Barista Pro,3,93.0
+Colombia,1,4.0,ME!!,454.0,"['Cinnamon forward', ' not sweet not spicy', ' tastes like cinnamon smells', ' chocolatey and deep']",9.0,0.0,20.0,40.0,1:2.0,30,Turin Legato V2,Kingrinder K6,45,96.0
+Ethiopia,1,3.0,Rum Baba,1000.0,"['Citrus-like acidity', ' berries']",9.0,21.0,22.0,45.0,1:2.0,35 seconds,La Marzocco Linea Micra,Ceado e37s - 2015,,91.2
+Blend,1,6.0,Backroads Coffee ,340.0,"['burnt', ' burnt chocolate', ' bitter', ' very dark']",1.0,,18.0,36.0,1:2.0,25,Breville Bambino Plus,DF54,30,93.0
+Blend,1,5.0,Altura Coffee Company,1000.0,"['Full-bodied', ' dark chocolate', ' malt', ' low acidity ']",9.0,,16.0,28.0,1:1.8,28,Rancilio Silvia Pro X,Rancilio Rocky,0.6,93.0
+Blend,1,5.0,Blue Bottle,454.0,,9.0,,22.0,22.0,1:1.0,25,Linea Micra,Pico,14,85.0
+Blend,1,6.0,Love Coffee,1000.0,,9.0,,18.0,42.0,1:2.3,28,Rocket appartamento ,Niche,,
+Ethiopia,1,3.0,Kolibri Coffee Roasters,250.0,"['Stone Fruits ', ' dark chocolate']",8.0,10.0,18.0,40.0,1:2.2,24,Lelit Bianca,Lagom Casa,6.2,90.0
+Blend,1,3.0,Elixir,2270.0,"['Chocolate', ' syrupy ']",8.0,,15.0,27.0,1:1.8,30,Lelit Elizabeth ,DF 83V,17,92.0
+Colombia,1,3.0,Manhattan Coffee Roasters,500.0,"['Papaya', ' Strawberry', ' Dragonfruit']",8.0,14.0,18.0,45.0,1:2.5,35,Flair 58 Plus 2,Ceado E5SD,0.775,93.0
+China,1,3.0,LiftUp Roast,340.0,"['thick syrupy dark cherry body', ' lighter grapefruit finish']",8.0,27.0,18.0,40.0,1:2.2,35,PID Gaggia Classic Pro Evo,1Zpresso J manual,1.4.2,93.0
+Ethiopia,1,1.0,DAK Coffee Roasters,250.0,"['Mango', ' Berrys']",10.0,14.0,18.0,45.0,1:2.5,52,Lelit Bianca,Lagom Casa,5.9,95.0
+Blend,1,6.0,Leftfield Roasters,1000.0,,10.0,,21.0,60.0,1:2.9,Default '2 cup' setting ,Breville Sunbeam,Breville Sunbeam,5,
+Indonesia,1,4.0,Koeslan Roastery,18.0,"['Mild Acidity', ' Brown sugar', ' Pandan after-taste']",9.0,19.0,18.0,38.0,1:2.1,55,Simonelli Appia II,Eureka Firenze 75,2.5,93.0
+Blend,1,6.0,Saka,1000.0,"['Syrupy', '', ' chocolate', ' almond']",7.0,73.0,18.0,30.5,1:1.7,23,Diletta Mio,Eureka Silenzio 55,-0.5,88.0
+Blend,1,5.0,Kitty town coffee,454.0,['Rich and syrupy body'],10.0,7.0,20.0,46.0,1:2.3,27.5,Casabrews ultra,Df54,16,90.0
+Colombia,1,2.0,Experimental,200.0,"['passionfruit', ' apricot', ' peach tea']",10.0,5.0,18.0,36.0,1:2.0,40,Gaggia Classic Pro,DF54,13,96.0
+Ethiopia,1,4.0,Laheey Coffee Roasters,454.0,"['sweet', ' dark chocolate', ' low bitter and acid']",9.0,10.0,19.0,45.0,1:2.4,25-30,Breville Bambino Plus,DF64 Gen 2,11-10,90.0
+Blend,1,2.0,Monogram,900.0,"['Grape jelly', ' peanut butter', ' caramel']",8.0,8.0,18.0,40.0,1:2.2,32,ECM Synchronika,Monolith MAX Gen 1,1.5,94.0
+Costa Rica,1,2.0,Push \ Pull ,283.0,"['syrup body', ' graham cracker', ' burnt sugar', ' biscotti']",9.0,7.0,19.0,35.0,1:1.8,37,Ascaso Dream PID,DF54,,88.0
+Blend,1,4.0,Black & White,340.0,"['Funky chocolate and wine taste', ' Very fruit', 'berry forward']",7.0,8.0,18.0,40.0,1:2.2,32,Breville Bambino,DF 64,13.5,93.0
+Blend,1,6.0,Lavazza,,,,,18.0,36.0,1:2.0,30,Sage Bambino,Df54,,
+Brazil,1,5.0,basaglia frankfurt,250.0,"['chocolate', ' tobacco', ' a bit fruitier taste', ' very subtle acid', ' ']",9.0,28.0,16.0,34.0,1:2.1,32,Dedica 685,Turin H40,40 at the lowest level,92.0
+Blend,1,5.0,Bird Coffee Co,300.0,['Chocolate and wine'],9.0,9.0,18.0,39.0,1:2.2,35,Profitec Go,Turín DF54,18,93.0
+Blend,1,3.0,Metric,300.0,"['Semi-sweet chocolate', ' light roastiness', 'smoke']",6.0,12.0,17.5,32.0,1:1.8,25,Lucca A53 Mini,Breville Smart Grinder Pro,12,93.0
+Uganda,1,4.0,Union,200.0,"['\n\nChocolatey', ' complex spicy woody', ' and dark fruit notes', ' Spicy woody is aromas of a rich wood furniture polish!']",9.0,11.0,18.0,36.0,1:2.0,25,Flair 58,Kinu Phoenix,2.2 rotations,
+Ethiopia,1,1.0,Chromatic Coffee,283.0,"['Pulled as espresso', ' 18g in 36g out in 30 seconds', ' Thin', ' balanced', ' medium acidity', ' mild fruit', ' underwhelming', ' over-priced', '']",5.0,3.0,18.0,36.0,1:2.0,30,Gaggia Classic,Sette 270,9D,94.0
+India,1,4.0,Denim Coffee ,340.0,"['Earthy', ' Walnut', ' Caramel ']",10.0,4.0,18.0,34.0,1:1.9,27,La Marzocco KB90,Mahlkönig E80GBW ,3.4 - 4.5,93.0
+Indonesia,1,5.0,Unico,,"['Sweet', ' chocolaty', ' ripe fruits ']",8.0,,18.3,31.0,1:1.7,28,Lelit anna,Df54,,94.0
+Blend,1,7.0,Coffee emporium,,,8.0,,18.0,32.0,1:1.8,35,Breville barista express,Breville barista express,4,96.0
+Colombia,1,2.0,La Cabra,200.0,"['Fruity', ' Floral', ' Tea like']",8.0,23.0,18.0,50.0,1:2.8,35,Cafelat Robot,Timemore 078s,2.4-2.6,100.0
+Blend,1,4.0,Mill Town Roasters - KP,340.0,['Delicious'],9.0,14.0,20.0,40.0,1:2.0,30,Breville Duo-Temp Pro ,Amzchef,13,96.0
+Brazil,1,2.0,jbkaffee,250.0,,7.0,14.0,18.0,48.0,1:2.7,26,Sage Bambino Plus,Varia VS3,1.5,
+Ethiopia,1,2.0,jbkaffee,250.0,"['Really rich', ' floral ']",9.0,0.0,18.0,46.0,1:2.6,26,Sage Bambino Plus,Varia VS3 (Gen 2),1.7,
+Colombia,1,1.0,Suedseite Coffee Roasters,200.0,"['Round', ' malic', ' peachy']",9.0,28.0,18.0,50.0,1:2.8,20,La Marzoccoo Linea Mini,Comandante,15 clicks,93.0
+Indonesia,1,5.0,Tagetto Coffee Roastery,1000.0,"['Intense', ' full body', ' somewhat spicy ', ' herbal aftertaste']",10.0,,18.0,40.0,1:2.2,35,Delonghi Dedica,Timemore C3 esp,,
+Blend,1,5.0,George Howell,340.0,['Chocolaty '],8.0,14.0,19.2,30.0,1:1.6,30,Profitec Pro 500,Niche ,Fine,93.0
+Jamaica,1,3.0,Espresso republic,400.0,"['hazelnut', ' chocolate']",8.0,7.0,18.0,40.0,1:2.2,23,lapera,option-o p01,1.4 ish it is stepless,81.0
+Blend,1,4.0,The Boy & The Bear,454.0,"['Rich', ' floral', ' chocolate', ' slightly sour']",10.0,30.0,18.0,40.0,1:2.2,30,9Barista,Baratza Encore ESP Pro,27,93.0
+Ethiopia,1,3.0,EVP coffee,12.0,"['Rich', ' very floral and earthy']",8.0,3.0,18.0,35.0,1:1.9,28,Flair Go,Timemore c2 s black,,90.0
+Blend,1,4.0,517 Coffee Company,238.0,['Chocolate caramel with hints of dark fruits'],8.0,5.0,18.0,45.0,1:2.5,25-28 seconds,Rancillio Silvia Pro,Niche Zero,20,90.0
+Ethiopia,1,1.0,Onyx,283.0,,9.0,22.0,21.0,40.0,1:1.9,32,Lelit Bianca V3,Varia VS6,3,95.0
+Blend,1,5.0,DONE(Doppio Or nothing Espresso) Coffee,1000.0,"['Rich', ' caramel']",9.0,,18.0,36.0,1:2.0,27,Breville Duel Boiler,Niche Zero,19.5,93.0
+Colombia,1,2.0,Dak,250.0,['Cardamom'],8.0,27.0,16.0,40.0,1:2.5,32,Breville Infuser,Df64,18-22,93.0
+Ethiopia,0,3.0,Beanwatch,250.0,"['Creamy', ' Sugarcane', ' Orange']",8.0,14.0,18.0,45.0,1:2.5,28,Zuriga E2-S,Niche Zero,18,93.0
+Colombia,1,3.0,Fascino Coffee,250.0,"['Rich', ' nutty', ' chocolate']",8.0,7.0,18.0,36.0,1:2.0,27 seconds,Sage Barista Touch Impress,Sage Barista Touch Impress,18,
+Colombia,1,3.0,Black and White Coffee Roasters,340.0,"['sweet and fruity', ' light-medium body']",8.0,,21.0,42.0,1:2.0,28s,Breville Bambino,Normcore Hand Grinder ,11 clicks,
+Ethiopia,1,3.0,Rising Star,340.0,"['Floral', ' fruity', ' blueberry', ' ']",9.0,4.0,18.5,37.0,1:2.0,27,BambinoPlus,Baratza Vario+,2Q,93.0
+India,1,5.0,Stockup Coffee,454.0,"['Rich-  good crema', ' aromatic', ' caramel with medium acidity']",8.0,5.0,16.0,35.0,1:2.2,25,Breville ,Bunn Commercial grinder,Espresso Grind,91.0
+Colombia,1,4.0,Canal,500.0,"['Dark Chocolate', ' Cherry']",3.0,20.0,18.0,44.0,1:2.4,24,Lelit Mara  X,DF83V,18,91.0
+Colombia,1,1.0,Bugan,150.0,['Pure Watermelon'],10.0,8.0,18.0,45.0,1:2.5,35,Gaggia E24,DF54,13,93.0
+Colombia,0,3.0,Kaffeekommune,250.0,"['fruity', ' almond', ' gingerbread']",10.0,16.0,18.0,44.0,1:2.4,~30-40 seconds,De'Longhi ecp 31.21,Baratza Encore ESP Pro,26-28,100.0
+Blend,1,3.0,Simple Roast,340.0,"['Chocolate and hazelnut with notes of fruit', ' Intense syrupy mouth feel']",8.0,6.0,19.0,38.0,1:2.0,29-33,Profitec Go,DF83 v2,27,93.0
+Blend,1,6.0,Cartel Roasting Co.,340.0,['Milk chocolate and blackberry'],6.0,7.0,20.0,38.0,1:1.9,32,Bambino Plus,DF 64 II,22,
+Cuba,1,4.0,Hamleys Coffee and Tea,454.0,"['Earthy', ' nutty', ' bold']",8.0,4.0,18.0,40.0,1:2.2,28,Breville Barista Express,Breville Barista Express,"Inner 2, outer 7",91.0
+Blend,1,3.0,Birdy Coffee Co,340.0,"['Bright', ' chocolatey', ' caramel notes', '']",8.0,,18.0,45.0,1:2.5,27,ECM Mechanika Max,Turin DF64V,16,90.0
+Blend,1,2.0,Traffic coffee,300.0,['Juicy and peachy'],8.0,8.0,17.0,36.0,1:2.1,30,Robot,Option O Lagom Mini 2,,
+Colombia,1,1.0,Roasticious,100.0,"['Rose', ' Lytchee', ' Grapefruit']",10.0,18.0,19.0,39.0,1:2.1,32,San Remo You,Option-O Lagom P64,1.2,91.0
+Brazil,1,4.0,Three Marks Coffee,1000.0,"['Almond', ' Aproicot', ' Vanilla']",7.0,5.0,17.0,34.0,1:2.0,30,Delonghi EC685 (w/bottomless portafilter),Graef CM702 / Kingrinder P02,,
+Guatemala,1,5.0,Hyperion Coffee,340.0,"['smoky ', ' chocolatey', ' I pull my shots ristretto but it still ends up feeling pretty full', '']",8.0,10.0,20.0,25.0,1:1.3,32,Bambino Plus,DF64,Around 15,
+Blend,1,4.0,Black Iron Coffee,340.0,['Nutty chocolate'],7.0,10.0,18.0,36.0,1:2.0,30,Profitec Move,Varia Vs6,1.1-1.3,93.0
+Ethiopia,1,2.0,DAK,250.0,['Thinner body; sweet bright apricots; no bitterness'],7.0,24.0,18.0,36.0,1:2.0,30,Profitec Go,Rancilio Rocky,4,94.0
+Blend,1,3.0,Partners ,,,,,16.5,34.0,1:2.1,25,Casabrew ,Miicoffee sd40,,
+Guatemala,1,3.0,Elysian Coffee Roasters,340.0,"['Cherry', ' Chocolate', ' Sweet Caramel']",8.0,14.0,18.0,36.0,1:2.0,27-32,Breville Bambino,Kingrinder K6,36,93.0
+Blend,1,4.0,Illy,,,7.0,,10.0,25.0,1:2.5,25,La Spaziale Dream,Niche Zero,23.5,92.0
+El Salvador,1,3.0,Function Coffee Co,300.0,"['dynamic but smooth', ' clean finish', ' cocoa nibs and stone fruit', '']",9.0,4.0,19.0,40.0,1:2.1,35,Rocket Cinquantotto,Eureka,2,95.0
+Ethiopia,1,3.0,Ona,1000.0,"['Berries', ' milk chocolate ']",8.0,35.0,20.8,38.0,1:1.8,28,Profitec pro 400,All ground sense,The e by espresso on grinder. (Sense users will know),94.0
+Ethiopia,1,1.0,September,200.0,"['Sweet', ' floral', ' juicy', ' honeysuckle']",9.0,20.0,18.0,45.0,1:2.5,50,Lelit Victoria,Niche Zero,16-18,96.0
+Rwanda,0,5.0,Rwanda Bean,340.0,"['Fruity', ' Molasses', ' Earthy ']",8.0,12.0,18.0,36.0,1:2.0,32,Bambino,Breville BSP,10-12,96.0
+Ethiopia,1,3.0,PERC,340.0,['Blueberry and cool whip'],10.0,10.0,19.0,38.0,1:2.0,28,Bambino plus,Baratza Encore ESP,10,
+Blend,1,3.0,The Coffee Roasters,454.0,"['Light smoky', ' balanced', ' Slight acidity', ' Chocolate', ' (I’m still learning tasting notes and dialing my machine in)']",7.0,,18.0,36.0,1:2.0,25,Breville Barista Express,Breville Barista Express,2,93.0
+Blend,1,5.0,Cafés Pfaff,250.0,,8.0,32.0,17.3,38.2,1:2.2,25,Sage Bambino Plus,Baratza Encore ESP PRO,33.5,
+India,1,4.0,Blue Tokai,250.0,"['Chocolate', ' fruity']",7.0,,16.0,34.0,1:2.1,28,Cpensus home espresso,Timemore C5 esp Pro,0.5.0,91.0
+Blend,1,4.0,Caffe Vita,908.0,['dark chocolate and cherry'],8.0,,18.0,40.0,1:2.2,32,Gaggia Classic,Eureka Mignon Facile,,
+Brazil,1,4.0,Twofiftysquare,250.0,"['Milk chocolate', '  hazelnut', '  toffee']",7.0,20.0,17.0,36.0,1:2.1,36,Breville Barista Express ,DF64,21,93.0
+Colombia,1,1.0,Inugami,226.0,"['Black cherry juice', ' stewed fruit']",8.0,14.0,15.0,45.0,1:3.0,18,Profitec go,Niche zero,18,95.0
+Ethiopia,1,3.0,Gracenote Coffee,340.0,"['Blueberry cobbler', 'pie', ' chocolate']",8.0,6.0,16.5,35.5,1:2.2,45,ECM Synchronika II,Zerno Z1,130 nm,94.0
+Blend,1,3.0,Ember and Bean Roasting Co,340.0,,8.0,,19.0,45.0,1:2.4,35,Breville Bambino Plus,Baratza Encore ESP,,
+Ethiopia,1,3.0,Press Coffee,340.0,,8.0,,18.0,36.0,1:2.0,30,Flair Pro 3,DF64,21.5,96.0
+Brazil,1,4.0,Origins Roastery,1000.0,['toffee'],7.0,8.0,17.0,33.0,1:1.9,28-30,Sanremo You,Eureka Helios,,96.0
+Colombia,1,3.0,Little wolf,,['Chocolate cherry '],9.0,,20.0,32.0,1:1.6,33,Lelit liz,EM specialita,,95.0
