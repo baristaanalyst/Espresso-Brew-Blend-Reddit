@@ -9,7 +9,7 @@ On a personal level, coffee is something that I have come to appreciate for its 
 
 **Notebooks in repository**:
 - `Espresso Bean_Brew_reddit dataset` = this contains the original data and the thoughts I made in the process of cleaning/extracting data
-- `Espresso Brew EDA` = this contains exploratory data analysis
+- `Espresso Brew EDA` = this contains exploratory data analysis (in progress as of 7/15/26)
 
 **Additional datasets extracted from original data:**
 - `espresso_brew_v2.csv` = cleaned version of raw data
